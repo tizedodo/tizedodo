@@ -26,6 +26,3 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11135392267&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11135392267&redirect=true)
   
-
-
-https://www.youtube.com/feeds/videos.xml?channel_id=UCd6ZvOka6Z_5cXiccvvuypQ
